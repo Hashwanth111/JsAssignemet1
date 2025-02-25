@@ -179,7 +179,7 @@ console.log(" ");
 // - user name  -  invalid
 // - _firstName -  valid
 // 3colors      -  invalid
-// my-variable  -  valid
+// my-variable  -  invalid
 // - $price     -  valid
 // - let        -  invalid
 
